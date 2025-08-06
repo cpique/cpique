@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cpique" alt="cpique" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, Python**
+- 🌱 I’m currently learning **Next.js, Python, Cybersecurity, .NET, and more**
 
-- 💬 Ask me about **.NET, C#, JavaScript, Backend, GraphQL**
+- 💬 Ask me about **.NET, C#, JavaScript, Backend, GraphQL, APIs**
 
 - 📫 You can reach me at **cristian.andres.pique@gmail.com**
 
