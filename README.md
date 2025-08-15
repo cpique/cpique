@@ -76,5 +76,3 @@
 <p align="left">
   <img src="https://ghchart.rshah.org/cpique" alt="GitHub Contributions" />
 </p>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cpique&mode=weekly)
