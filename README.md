@@ -71,9 +71,3 @@
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cpique&show_icons=true&locale=en&layout=compact" alt="cpique" />
 </p>
-
-<h3 align="left">Commit Heatmap</h3>
-<p align="left">
-  <img src="https://ghchart.rshah.org/cpique" alt="GitHub Contributions" />
-</p>
-
