@@ -10,11 +10,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=cpique" alt="cpique" />
   </a>
  </p>
--->
+
 - 🌱 I’m currently learning **Next.js, Python, Cybersecurity, .NET, and more**  
 - 💬 Ask me about **.NET, C#, JavaScript, Backend, GraphQL, APIs**  
 - 📫 You can reach me at **cristian.andres.pique@gmail.com**
-
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/cristian-andres-pique" target="blank">
@@ -25,6 +25,7 @@
   </a>
 </p>
 
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -72,3 +73,4 @@
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cpique&show_icons=true&locale=en&layout=compact" alt="cpique" />
 </p>
+-->
